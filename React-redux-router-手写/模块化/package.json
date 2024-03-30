@@ -1,0 +1,15 @@
+{
+  "name": "module_learn",
+  "version": "1.0.0",
+  "description": "1. 函数时期 浏览器脚本 ```js     function fn() {",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "rollup": "^3.29.3"
+  }
+}
