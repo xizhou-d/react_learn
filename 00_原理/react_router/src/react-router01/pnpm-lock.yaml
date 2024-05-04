@@ -1,0 +1,12 @@
+lockfileVersion: '6.0'
+
+dependencies:
+  path-to-regexp:
+    specifier: ^6.2.2
+    version: 6.2.2
+
+packages:
+
+  /path-to-regexp@6.2.2:
+    resolution: {integrity: sha512-GQX3SSMokngb36+whdpRXE+3f9V8UzyAorlYvOGx87ufGHehNTn5lCxrKtLyZ4Yl/wEKnNnr98ZzOwwDZV5ogw==}
+    dev: false
